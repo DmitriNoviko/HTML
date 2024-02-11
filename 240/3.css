@@ -1,0 +1,34 @@
+#menu
+{
+  display: flex;
+  background-color: green;
+  width: 400px;
+}
+
+#menu a
+{
+  padding: 15px 30px;
+  font: 16px Arial;
+  text-decoration: none;
+  color: white;
+}
+#menu a:hover, #menu a.active
+{
+  background-color: #285730;
+}
+#hz 
+{
+    display: flex;
+    background-color: white;
+}
+#hz a
+{
+    padding: 15px 30px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+}
+#hz a:hover, #hz a.active
+{
+  background-color: #285730;
+}
